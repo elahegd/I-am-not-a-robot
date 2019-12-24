@@ -1,0 +1,26 @@
+[
+  {
+    "qoute": "i am robot",
+    "flag": false
+  },
+  {
+    "qoute": "i am not robot",
+    "flag": true
+  },
+  {
+    "qoute": "i am robot",
+    "flag": false
+  },
+  {
+    "qoute": "i am robot",
+    "flag": false
+  },
+  {
+    "qoute": "i am not robot",
+    "flag": true
+  },
+  {
+    "qoute": "i am robot",
+    "flag": false
+  }
+]
